@@ -33,6 +33,14 @@ When I received the problem statement, I was tasked with selecting the appropria
 decision making
 
 
+-----------------------------------------------------------------
+
+My project primarily focused on monitoring the existing services within the division. However, due to the limited duration of my involvement, I was unable to extensively explore the technologies and services that leverage the divisional and financial knowledge in-depth. As a result, I am determined to enhance this aspect in the future. I aim to acquire a deeper understanding of the business logic and divisional knowledge, allowing me to broaden my expertise and contribute more effectively to projects within these domains.
+business logic
+
+During the initial phase of my project, I encountered an edge case that came to my attention during discussions with my colleagues regarding my work implementation. Upon realizing this issue, I promptly resolved it. This experience taught me the importance of considering and addressing all possible edge cases while designing a solution. It highlighted the significance of thoroughness and attention to detail in order to ensure the robustness and reliability of the implemented solution.
+
+
 
 
 
