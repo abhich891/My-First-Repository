@@ -2,3 +2,42 @@
 #include <conio.h>
 voi main
 clr scr
+
+
+
+
+
+"I was presented with a scenario that required me to read and process data from a YAML file, prompting me to determine the most effective approach for accessing this data. Therefore, I thoroughly investigated various potential solutions and carefully selected the most suitable and optimized option."
+analytical thinking
+
+
+I regularly shared my work with teammates and managers, ensuring that I remained in sync with the team regarding the ongoing development and areas for improvement within my project. I consistently incorporated their feedback effectively into my work
+communication
+
+
+"My team follows the Scrum methodology for work planning, and I consistently ensured timely delivery of the tasks assigned to me within the sprint. I proactively reported any obstacles or blockers, allowing my team and manager to remain well-informed and provide necessary guidance. Additionally, I diligently adhered to all established quality standards for the project, including writing unit tests to maintain functional accuracy of the code and increase code coverage. Furthermore, I consistently ensured that my code adhered to the CI/CD standards."
+constiouness
+
+
+I consistently adhered to the rules and procedures established by Goldman Sachs and my respective divisions. I consistently utilized authorized tools and services for my work, prioritizing the prevention of any information breaches during my tenure. Moreover, I remained vigilant in ensuring that all my decisions consistently aligned with the firm's regulations both internally and externally."
+integrity
+
+Whenever I embark on designing a prospective solution, I actively seek input and perspectives from my teammates. In cases where viewpoints differ, we engage in constructive discussions to ensure a comprehensive understanding and ultimately reach a conclusive decision. During my project, I encountered the need to persist and retrieve data, and I sought the guidance of my teammates to design the data objects in an optimized and well-structured manner.
+teamwork and inclusion
+
+
+I consistently practiced timeboxing during debugging to ensure that my work was completed within the designated timeframe. To achieve this, I sought assistance from my team members when needed. On my first day working with a new technology, I encountered a problem that caused me to get stuck. After investing a significant amount of time and effort, I reached out to my buddy for help, only to discover that the issue was not within our control. I actively sought feedback for my proposed solutions, valuing the input of others. During the integration of my code with the existing services, I presented my work to the team and received a suggestion for a change to ensure the preservation of the existing services. I embraced this suggestion with a positive mindset, recognizing the financial implications and importance of the services we provide, and implemented the change accordingly
+tenacity and drive
+
+When I received the problem statement, I was tasked with selecting the appropriate tech stack to implement the solutions. Initially, I chose the Python language due to its ease of use, robust community support, availability of modules, and data parsing capabilities, which seemed well-suited for the solution. However, after discussing the options with my teammates and considering the existing tech stack, we collectively decided to utilize shell scripting. We determined that shell scripting would be a better choice due to its speed, lower resource requirements, and greater compatibility within our tech stack.
+decision making
+
+
+
+
+
+
+
+
+
+
